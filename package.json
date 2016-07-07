@@ -1,0 +1,12 @@
+{
+  "name": "react-enum-prop-type",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/react-enum-prop-type",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
